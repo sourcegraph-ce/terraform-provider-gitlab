@@ -6,7 +6,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/helper/validation"
 	"github.com/mitchellh/hashstructure"
 	"github.com/xanzy/go-gitlab"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 )
 
 // Schemas
