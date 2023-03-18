@@ -1,7 +1,7 @@
 package gitlab
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 	"strings"
 
